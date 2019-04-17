@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Azure BootCamp 2019 Barcelona"
 categories: [conferences]
 tags: [conferences, azure]
