@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 ## Welcome to Marmonca's blog
 
 This is my personal blog and i will talk about .Net topics.
