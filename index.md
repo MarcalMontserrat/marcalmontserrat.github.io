@@ -19,3 +19,9 @@ This is my personal blog and i will talk about .Net topics.
     {% endfor %}
   </ul>
 {% endfor %}
+
+{% if page.show_sidebar %}
+  <div class="sidebar">
+    sidebar content
+  </div>
+{% endif %}
